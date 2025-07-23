@@ -26,7 +26,7 @@ const About = () => {
               <div className="w-80 h-80 rounded-2xl bg-gradient-primary p-1">
                 <div className="w-full h-full rounded-2xl bg-card flex items-center justify-center">
                   <div className="w-72 h-72 rounded-xl bg-gradient-secondary flex items-center justify-center text-6xl font-bold text-primary">
-                    JD
+                    DM
                   </div>
                 </div>
               </div>
@@ -39,7 +39,7 @@ const About = () => {
           {/* Content */}
           <div className="space-y-6">
             <div>
-              <h3 className="text-2xl font-bold mb-4">Hi, I'm John Doe</h3>
+              <h3 className="text-2xl font-bold mb-4">Hi, I'm Daniyal Murtaza</h3>
               <p className="text-muted-foreground mb-6 leading-relaxed">
                 A passionate frontend developer with 3+ years of experience building 
                 modern web applications. I love turning ideas into reality through clean, 

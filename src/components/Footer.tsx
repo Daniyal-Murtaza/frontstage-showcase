@@ -11,7 +11,7 @@ const Footer = () => {
           {/* Brand */}
           <div className="space-y-4">
             <h3 className="text-2xl font-bold bg-gradient-primary bg-clip-text text-transparent">
-              John Doe
+              Daniyal Murtaza
             </h3>
             <p className="text-muted-foreground">
               Frontend Developer passionate about creating beautiful and functional web experiences.
@@ -71,7 +71,7 @@ const Footer = () => {
 
         {/* Bottom */}
         <div className="border-t border-primary/20 pt-8 text-center text-muted-foreground">
-          <p>© {currentYear} John Doe. All rights reserved. Built with React & Tailwind CSS.</p>
+          <p>© {currentYear} Daniyal Murtaza. All rights reserved. Built with React & Tailwind CSS.</p>
         </div>
       </div>
     </footer>
